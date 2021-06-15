@@ -1,0 +1,25 @@
+.cerulean {
+  background-color: #98b2d1;
+}
+.fuchsia {
+  background-color: #c74375;
+  color: black;
+}
+.true {
+  background-color: #bf1932;
+  max-width: 18rem;
+}
+.aqua {
+  background-color: #7bc4c4;
+  color: black;
+}
+.tigerlily {
+  background-color: #e2583e;
+}
+.turquoise {
+  background-color: #53b0ae;
+  color: black;
+}
+.card {
+  max-width: 18rem;
+}
